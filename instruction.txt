@@ -1,0 +1,4 @@
+pip install virtualenv
+virtualenv SDP-Env
+* navigate to folder set path
+pip install -r requirement.txt
